@@ -11,4 +11,4 @@ Real-time-streaming sentiment analysis application created with Python and Dash
 
 ## Credits
 
-Credit for this code goes to @Sentdex. I've just taken inspiration from him and merely tweaked a few of the custom functions for run time performance improvements.
+Credits for this code go to Sentdex. I've just taken inspiration from him and merely tweaked a few of the custom functions for run time performance improvements.
