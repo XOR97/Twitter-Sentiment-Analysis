@@ -9,6 +9,8 @@ Real-time-streaming sentiment analysis application created with Python and Dash
 - `cache.py` -  For caching purposes in effort to get things to run faster.
 - `db-truncate.py` - A script to truncate the infinitely-growing sqlite database. You will get about 3.5 millionish tweets per day, depending on how fast you can process. You can keep these, but, as the database grows, search times will dramatically suffer.
 
+![Demo](/Users/azzy93/Documents/Randm/example.jpeg)
+
 ## Credits
 
 Credits for this code go to Sentdex. I've just taken inspiration from him and merely tweaked a few of the custom functions for run time performance improvements.
